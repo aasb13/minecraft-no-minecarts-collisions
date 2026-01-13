@@ -1,0 +1,4 @@
+name: NoMinecartsCollisions
+version: '1.0'
+main: net.noMinecartsCollisions.NoMinecartsCollisions
+api-version: '1.21'
